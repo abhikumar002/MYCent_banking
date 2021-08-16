@@ -1,4 +1,4 @@
-# MyCent-Bank-Management-System
+# MyCent-Banking
 project in c++ without Gui
 
 # C++ programming
